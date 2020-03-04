@@ -7,3 +7,5 @@ end
 
 # rescue_princess_peach
 # puts status
+#this will only work if variables are outside the method
+rescue_princess_peach
