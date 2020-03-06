@@ -1,9 +1,17 @@
 def rescue_princess_peach
-  status = "rescued"
+#   status = "rescued"
   puts "Hooray! Mario has rescued Princess Peach."
 end
 
-## Comment the below back in to see method scope in action!
+def catch_phrase
+  puts "It's-a me, Mario!"
+end 
 
-# rescue_princess_peach
-# puts status
+
+# def myNewMethod(arg1, arg2, arg3)     # 3 arguments
+#   # Code for the method would go here
+# end
+
+# def myOtherNewMethod                  # No arguments
+#   # Code for the method would go here
+# end
