@@ -1,4 +1,4 @@
-# Method Scope Lab
+out learethod Scope Lab
 
 ## Objectives
 
